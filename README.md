@@ -1,2 +1,4 @@
 # shinny_maccor
-Shinn app for reading and analyzing Maccor files
+Shinny app for reading and analyzing Maccor files
+
+I am using it for learning GIT
